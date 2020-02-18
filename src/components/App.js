@@ -19,6 +19,7 @@ export default class extends React.Component {
     return (
       <Container>
         <AppHeader />
+        <Board />
       </Container>
     )
   }
